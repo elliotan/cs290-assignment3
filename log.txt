@@ -1,3 +1,19 @@
-Start: Sun, 19 Apr 2015 11:33:14 -0800
-End: Sun, 19 Apr 2015 14:57:07 -0800
-Tasks: completed all functions within the functions JScript file, objectLiteral in the objects.js file, and three functions in the variables.js file.  
+Start: Sun, 19 Apr 2015 11:33:00 -0800
+End: Sun, 19 Apr 2015 14:57:00 -0800
+Tasks: completed all functions within the functions JScript file, objectLiteral in the objects.js file, and three functions in the variables.js file.
+
+Start: Wed, 22 Apr 2015 14:20:19 -0800
+End: Wed, 22 Apr 2015 15:57:00 -0800
+Tasks: Updated part 1 .js files with lessons learned from private tutor session.
+
+Start: Fri, 24 Apr 2015 15:03:51 -0800
+End: Fri, 24 Apr 2015 18:33:27 -0800
+Tasks: Finished required lectures and readings for assignment 3 part 2.  Started html and css page for storing gists and favorites.    
+
+Start: Sat, 25 Apr 2015 09:11:11 -0800
+End: Sat, 25 Apr 2015 13:03:07 -0800
+Tasks: Tried to complete Ajax call functions and list append.  Almost done, but I need a break.  Will finish tomorrow.  
+
+Start: Sun, 26 Apr 2015 07:45:39 -0800
+End: Sun, 26 Apr 2015 16:27:10 -0800
+Tasks: Ajax now working correctly - added in add/remove buttons.  Will submit after Game of Thrones watch party.  
